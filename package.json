@@ -1,0 +1,22 @@
+{
+  "name": "dev_web",
+  "version": "1.0.0",
+  "description": "Test_api",
+  "main": "Server.js\t",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ https://github.com/FaicFqui/Depo_exo_dev_web.git"
+  },
+  "author": "Faiçal FQUIHI",
+  "license": "ISC",
+  "bugs": {
+    "url": " https://github.com/FaicFqui/Depo_exo_dev_web.git/issues"
+  },
+  "homepage": " https://github.com/FaicFqui/Depo_exo_dev_web.git#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
