@@ -2,7 +2,7 @@
   "name": "dev_web",
   "version": "1.0.0",
   "description": "Test_api",
-  "main": "Server.js\t",
+  "main": "Postman.js\t",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
